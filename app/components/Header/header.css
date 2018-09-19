@@ -1,0 +1,9 @@
+Nav{
+    background:#5DBCD2!important;
+    font-size: 200px !important;
+    text-decoration: none !important;
+}
+nav ul a, nav .brand-logo, nav a {
+    background: transparent;
+    text-decoration: none !important;
+}
